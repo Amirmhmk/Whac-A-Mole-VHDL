@@ -2,6 +2,8 @@
 
 ## **Overview**  
 This project is a hardware implementation of the *Whac-A-Mole* game using VHDL. The design simulates the game logic, including mole appearance, player interaction, scoring, and game timing. The project was developed as part of a university course on *Computer-Aided Design* at the **University of Guilan, Computer Engineering Department**.
+![image](https://github.com/user-attachments/assets/afb8530d-ddbf-43d1-b743-a9988ff224e1)
+
 
 ## **Features**  
 - **Game Mechanics**:  
